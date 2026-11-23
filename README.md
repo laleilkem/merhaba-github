@@ -1,6 +1,5 @@
 # merhaba-github
-![Uploading f7f0fe44-abca-4417-90d1-8735d0914d7a.jpg…]()
-
+<img width="1080" height="1080" alt="f7f0fe44-abca-4417-90d1-8735d0914d7a" src="https://github.com/user-attachments/assets/0c414ecb-c0ff-4313-a20e-3e3069ea4fff" />
 
 
 
