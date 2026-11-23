@@ -1,5 +1,6 @@
 # merhaba-github
-![SAÜ Logosu](images/sau-logo.png)
+![SAÜ Logosu](![Uploading f7f0fe44-abca-4417-90d1-8735d0914d7a.jpg…]()
+)
 
 Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
