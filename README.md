@@ -1,5 +1,6 @@
 # merhaba-github
-<img width="782" height="796" alt="Ekran görüntüsü 2026-11-23 153045" src="https://github.com/user-attachments/assets/74ae19e7-399b-4e44-aaa7-865eeed2c64a" />
+![Uploading f7f0fe44-abca-4417-90d1-8735d0914d7a.jpg…]()
+
 
 
 
