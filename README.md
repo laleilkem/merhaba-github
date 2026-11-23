@@ -7,7 +7,7 @@ Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 ## hakkımda 
 
-- **Bölüm:**
+- **Bölüm:Bilgisayar Mühendisliği**
 - 
 - **En çok merak ettiğim konu:**
 
